@@ -1,2 +1,0 @@
-# debb
-discord bot
